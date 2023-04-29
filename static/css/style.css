@@ -1,0 +1,15 @@
+/* Your CSS can go here! */
+:root {
+    /* Define your CSS variables */
+}
+* {
+    /*
+    Define global attributes (box-sizing, or really whatever you want to apply to everything)
+    */
+}
+html {
+    background-color: lightblue;
+}
+body {
+    
+}
